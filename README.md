@@ -1,7 +1,7 @@
 # Kiadas_kezelo
 
 
-Eddig jutottam vele mivel nem tudom tesztelni, sem emulatorban, sem pedig fizikális eszközön...
+Eddig jutottam vele mivel nem tudom tesztelni, sem emulátorban, sem pedig fizikális eszközön...
 
 Ez az alkalmazás képes összegeket beolvasni, elmenteni akár mint kiadás és akár mint bevétel.
 Képes megjeleníteni a vég összeget, kiadásnak és bevételnek egyaránt.
