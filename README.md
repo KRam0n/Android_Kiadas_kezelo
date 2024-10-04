@@ -3,7 +3,7 @@
 
 Eddig jutottam vele mivel nem tudom tesztelni, sem emulátorban, sem pedig fizikális eszközön...
 
-Ez az alkalmazás képes összegeket beolvasni, elmenteni akár mint kiadás és akár mint bevétel.
+Ez az alkalmazás képes(lenne) összegeket beolvasni, elmenteni akár mint kiadás és akár mint bevétel.
 Képes megjeleníteni a vég összeget, kiadásnak és bevételnek egyaránt.
 
 #### További funkció lett volna:
